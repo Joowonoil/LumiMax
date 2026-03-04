@@ -129,12 +129,13 @@ One-time purchase. Yours forever. No subscription.
 - ✓ Keyboard backlight slider
 - ✓ Display controls (Dark Mode / Night Shift / True Tone)
 
-|                    | Details                          |
-| ------------------ | -------------------------------- |
-| **Price**          | One-time purchase                |
-| **Free Trial**     | 3 days (full features)           |
-| **Updates**        | Free lifetime updates            |
-| **Purchase**       | Website (Gumroad) or App Store   |
+|                    | Details                                              |
+| ------------------ | ---------------------------------------------------- |
+| **Price**          | $16.35 (one-time, +10% platform fee at checkout)     |
+| **Free Trial**     | 3 days with full Pro features                        |
+| **Free Version**   | Basic brightness boost available without Pro         |
+| **Updates**        | Free lifetime updates                                |
+| **Purchase**       | Website (Gumroad) or Mac App Store                   |
 
 <a href="https://ramter.gumroad.com/l/lumimax">Buy Pro on Website</a> · <a href="https://apps.apple.com/app/id6758426477?mt=12">Buy Pro on App Store</a>
 
