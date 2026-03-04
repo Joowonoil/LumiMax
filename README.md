@@ -116,6 +116,15 @@ Want to help translate LumiMax into your language? [Open an issue](https://githu
 
 ## Installation
 
+### Homebrew
+
+```bash
+brew tap Joowonoil/lumimax
+brew install --cask lumimax
+```
+
+### Manual
+
 1. Download the [latest DMG](https://ramterstudio.com/assets/lumimax/LumiMax.dmg) or install from the [Mac App Store](https://apps.apple.com/app/id6758426477?mt=12).
 2. Open the DMG and drag LumiMax to your **Applications** folder.
 3. Launch LumiMax — it lives in your **menu bar**.
