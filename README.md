@@ -10,6 +10,13 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/github/v/release/Joowonoil/LumiMax?label=Latest%20Release&color=gold" alt="Latest Release">
+  <img src="https://img.shields.io/github/downloads/Joowonoil/LumiMax/total?label=Downloads&color=green" alt="Downloads">
+  <img src="https://img.shields.io/badge/Platform-macOS-blue" alt="Platform">
+  <img src="https://img.shields.io/badge/macOS-Sequoia%20%7C%20Sonoma%20%7C%20Tahoe-lightgrey" alt="macOS Compatibility">
+</p>
+
+<p align="center">
   <a href="https://ramterstudio.com/assets/lumimax/LumiMax.dmg">Download</a> ·
   <a href="https://apps.apple.com/app/id6758426477?mt=12">Mac App Store</a> ·
   <a href="https://ramterstudio.com/lumimax/">Website</a>
@@ -73,6 +80,8 @@ Auto-disable on battery or when charge drops below your set threshold. Timer-bas
 
 English, Korean, Japanese, Chinese, German, Spanish, and French.
 
+Want to help translate LumiMax into your language? [Open an issue](https://github.com/Joowonoil/LumiMax/issues) or email us at [ramterstudio@gmail.com](mailto:ramterstudio@gmail.com).
+
 ## Screenshots
 
 <p align="center">
@@ -89,6 +98,13 @@ English, Korean, Japanese, Chinese, German, Spanish, and French.
 - Pro Display XDR, LG UltraFine, and other external displays
 - **Supports the new MacBook Pro M5 Pro/Max and MacBook Air M5**
 
+## System Requirements
+
+- **macOS Sequoia** (15.0+)
+- **macOS Sonoma** (14.0+)
+- **macOS Tahoe** (26.0+)
+- Apple Silicon (M1 and later) required
+
 ## Download
 
 |                 | Website Version                                                     | App Store Version                                              |
@@ -98,14 +114,27 @@ English, Korean, Japanese, Chinese, German, Spanish, and French.
 | **Free Trial**  | 3 days                                                              | 3 days                                                         |
 | **Features**    | Full access to all features                                         | Full access to brightness boost                                |
 
+## Installation
+
+1. Download the [latest DMG](https://ramterstudio.com/assets/lumimax/LumiMax.dmg) or install from the [Mac App Store](https://apps.apple.com/app/id6758426477?mt=12).
+2. Open the DMG and drag LumiMax to your **Applications** folder.
+3. Launch LumiMax — it lives in your **menu bar**.
+
 ## LumiMax Pro
 
-One-time purchase. Yours forever.
+One-time purchase. Yours forever. No subscription.
 
 - ✓ Unlimited XDR boost
 - ✓ Brightness key control (F1/F2)
 - ✓ Keyboard backlight slider
 - ✓ Display controls (Dark Mode / Night Shift / True Tone)
+
+|                    | Details                          |
+| ------------------ | -------------------------------- |
+| **Price**          | One-time purchase                |
+| **Free Trial**     | 3 days (full features)           |
+| **Updates**        | Free lifetime updates            |
+| **Purchase**       | Website (Gumroad) or App Store   |
 
 <a href="https://ramter.gumroad.com/l/lumimax">Buy Pro on Website</a> · <a href="https://apps.apple.com/app/id6758426477?mt=12">Buy Pro on App Store</a>
 
@@ -117,7 +146,7 @@ LumiMax does not collect, store, or transmit any personal data. All settings are
 
 ## Feedback
 
-If you have any issues or feature requests, please [open an issue](https://github.com/ramster/LumiMax/issues) or email us at [ramterstudio@gmail.com](mailto:ramterstudio@gmail.com).
+If you have any issues or feature requests, please [open an issue](https://github.com/Joowonoil/LumiMax/issues) or email us at [ramterstudio@gmail.com](mailto:ramterstudio@gmail.com).
 
 ---
 
