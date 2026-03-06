@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/Joowonoil/LumiMax?label=Latest%20Release&color=gold" alt="Latest Release">
+  <img src="https://img.shields.io/github/v/release/Joowonoil/LumiMax?include_prereleases&label=Latest%20Release&color=gold" alt="Latest Release">
   <img src="https://img.shields.io/github/downloads/Joowonoil/LumiMax/total?label=GitHub%20Downloads&color=green" alt="GitHub Downloads">
   <img src="https://img.shields.io/badge/Platform-macOS-blue" alt="Platform">
   <img src="https://img.shields.io/badge/macOS-Sequoia%20%7C%20Sonoma%20%7C%20Tahoe-lightgrey" alt="macOS Compatibility">
