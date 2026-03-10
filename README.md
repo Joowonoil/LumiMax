@@ -1,19 +1,20 @@
 <p align="center">
-  <img src="https://ramterstudio.com/assets/lumimax/icon.png" width="128" height="128" alt="LumiMax">
+  <img src="https://ramterstudio.com/assets/lumimax/icon.png" width="128" height="128" alt="LumiMax — XDR Brightness Boost for macOS">
 </p>
 
 <h1 align="center">LumiMax</h1>
 
 <p align="center">
   <strong>XDR Brightness Boost for Mac — Up to 1600 nits</strong><br>
-  The brightest, lightest, and most color-accurate XDR boost app for Mac.
+  The brightest, lightest, and most color-accurate XDR boost app for macOS. Uses Apple's native EDR overlay — not gamma table hacks. Keyboard backlight control, Dark Mode / Night Shift / True Tone toggles, multi-display support. Built for Apple Silicon (M1–M5).
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/v/release/Joowonoil/LumiMax?include_prereleases&label=Latest%20Release&color=gold" alt="Latest Release">
   <img src="https://img.shields.io/github/downloads/Joowonoil/LumiMax/total?label=GitHub%20Downloads&color=green" alt="GitHub Downloads">
-  <img src="https://img.shields.io/badge/Platform-macOS-blue" alt="Platform">
-  <img src="https://img.shields.io/badge/macOS-Sequoia%20%7C%20Sonoma%20%7C%20Tahoe-lightgrey" alt="macOS Compatibility">
+  <img src="https://img.shields.io/badge/Platform-macOS%2014.0+-blue" alt="Platform macOS 14.0+">
+  <img src="https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-lightgrey" alt="macOS Sonoma Sequoia Tahoe">
+  <img src="https://img.shields.io/badge/Architecture-Apple%20Silicon%20%7C%20Intel-purple" alt="Apple Silicon and Intel">
 </p>
 
 <p align="center">
@@ -28,7 +29,7 @@
 
 ## Why LumiMax?
 
-There are already XDR brightness boost apps out there. None of them were good enough.
+There are already XDR brightness boost apps out there — like Vivid, BetterDisplay, and f.lux. None of them were good enough.
 
 ### The Problem
 
@@ -53,7 +54,7 @@ LumiMax uses **Apple's native EDR (Extended Dynamic Range) overlay** — not gam
 
 ### 🔆 XDR Brightness Boost
 
-Push your display up to 1600 nits. Perfect for HDR content and bright outdoor environments.
+Push your MacBook Pro display up to 1600 nits — the true hardware maximum. Perfect for HDR content, bright outdoor environments, and sunlit offices.
 
 ### ⌨️ Keyboard Backlight Control
 
@@ -65,7 +66,7 @@ Quick toggles for Dark Mode, Night Shift, and True Tone right from the menu bar 
 
 ### 🖥️ Multi-Display Support
 
-Control brightness for all connected displays including Pro Display XDR and LG UltraFine.
+Control brightness for all connected displays including Pro Display XDR, LG UltraFine, Studio Display, and third-party monitors.
 
 ### 🎹 Keyboard Shortcuts
 
@@ -100,10 +101,9 @@ Want to help translate LumiMax into your language? [Open an issue](https://githu
 
 ## System Requirements
 
-- **macOS Sequoia** (15.0+)
-- **macOS Sonoma** (14.0+)
-- **macOS Tahoe** (26.0+)
-- Apple Silicon (M1 and later) required
+- **macOS 14.0+** (Sonoma, Sequoia, Tahoe)
+- Apple Silicon (M1, M1 Pro, M1 Max, M2, M3, M3 Pro, M3 Max, M4, M4 Pro, M4 Max, M5, M5 Pro, M5 Max) required
+- XDR display recommended for full 1600 nit boost
 
 ## Download
 
@@ -152,7 +152,7 @@ One-time purchase. Yours forever. No subscription.
 
 ## Privacy
 
-LumiMax does not collect, store, or transmit any personal data. All settings are stored locally on your device. No analytics or tracking.
+LumiMax does not collect, store, or transmit any personal data. All settings are stored locally on your device. No analytics, no tracking, no telemetry.
 
 ## Feedback
 
