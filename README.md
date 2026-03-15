@@ -27,6 +27,14 @@
   <img src="https://ramterstudio.com/assets/lumimax/comparison.png" width="700" alt="Standard vs LumiMax">
 </p>
 
+## Latest in 1.5.0
+
+- Added a first-launch guide
+- Added a What's New popup after updates
+- Added options to choose brightness key OSD styles in the website version
+- Improved supported display detection and brightness behavior stability
+- Refined the main UI and header branding
+
 ## Why LumiMax?
 
 There are already XDR brightness boost apps out there — like Vivid, BetterDisplay, and f.lux. None of them were good enough.
