@@ -29,7 +29,7 @@
 
 ## Why LumiMax?
 
-There are already XDR brightness boost apps out there — like Vivid, BetterDisplay, and f.lux. None of them were good enough.
+There are already XDR brightness boost apps out there — None of them were good enough.
 
 ### The Problem
 
