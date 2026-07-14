@@ -6,16 +6,18 @@
 
 <p align="center">
   <strong>XDR Brightness Boost for Mac — Up to 1600 nits</strong><br>
-  The brightest, lightest, and most color-accurate XDR boost app for macOS. Uses Apple's native EDR overlay — not gamma table hacks. Keyboard backlight control, Dark Mode / Night Shift / True Tone toggles, multi-display support. Built for Apple Silicon (M1–M5).
+  Native EDR brightness control for macOS with keyboard backlight control, display mode toggles, and multi-display support. Universal app for Apple silicon and Intel Macs.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/v/release/Joowonoil/LumiMax?include_prereleases&label=Latest%20Release&color=gold" alt="Latest Release">
   <img src="https://img.shields.io/github/downloads/Joowonoil/LumiMax/total?label=GitHub%20Downloads&color=green" alt="GitHub Downloads">
-  <img src="https://img.shields.io/badge/Platform-macOS%2014.0+-blue" alt="Platform macOS 14.0+">
-  <img src="https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-lightgrey" alt="macOS Sonoma Sequoia Tahoe">
+  <img src="https://img.shields.io/badge/Platform-macOS%2013.0+-blue" alt="Platform macOS 13.0+">
+  <img src="https://img.shields.io/badge/macOS-Ventura%20%7C%20Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-lightgrey" alt="macOS Ventura Sonoma Sequoia Tahoe">
   <img src="https://img.shields.io/badge/Architecture-Apple%20Silicon%20%7C%20Intel-purple" alt="Apple Silicon and Intel">
 </p>
+
+> This is the official release, documentation, and issue-tracking repository for LumiMax. The application is proprietary; its source code is not published here.
 
 <p align="center">
   <a href="https://ramterstudio.com/assets/lumimax/LumiMax.dmg">Download</a> ·
@@ -29,26 +31,13 @@
 
 ## Why LumiMax?
 
-There are already XDR brightness boost apps out there — None of them were good enough.
+LumiMax uses Apple's native EDR (Extended Dynamic Range) overlay to extend display brightness while preserving color accuracy.
 
-### The Problem
-
-|                    | Other Apps               | LumiMax            |
+|                    | Gamma adjustment         | LumiMax            |
 | ------------------ | ------------------------ | ------------------ |
 | **Method**         | Gamma table manipulation | Native EDR overlay |
 | **Color accuracy** | Colors get distorted     | Preserved          |
 | **Max brightness** | Limited                  | Full 1600 nits     |
-| **Battery**        | Backlight always maxed   | Efficient overlay  |
-| **Weight**         | Heavy, feature-bloated   | Lightweight & fast |
-
-### The Solution
-
-LumiMax uses **Apple's native EDR (Extended Dynamic Range) overlay** — not gamma table hacks.
-
-- **Full 1600 nits** — Reaches the true maximum brightness of your XDR display.
-- **Color accuracy preserved** — No gamma shifting. Your P3 wide color gamut stays intact.
-- **Battery efficient** — Only boosts the overlay, not the backlight.
-- **Lightweight** — No unnecessary features. Instant response.
 
 ## Features
 
@@ -58,11 +47,11 @@ Push your MacBook Pro display up to 1600 nits — the true hardware maximum. Per
 
 ### ⌨️ Keyboard Backlight Control
 
-Adjust keyboard backlight brightness with a convenient slider — a feature only LumiMax offers.
+Adjust keyboard backlight brightness with a convenient slider.
 
 ### 🌙 Display Mode Controls
 
-Quick toggles for Dark Mode, Night Shift, and True Tone right from the menu bar — another LumiMax exclusive.
+Quick toggles for Dark Mode, Night Shift, and True Tone right from the menu bar.
 
 ### 🖥️ Multi-Display Support
 
@@ -97,12 +86,12 @@ Want to help translate LumiMax into your language? [Open an issue](https://githu
 - MacBook Pro 13" (M1/M2) — Optimized boost
 - MacBook Air (M1 and later) — Up to +60% brightness boost
 - Pro Display XDR, LG UltraFine, and other external displays
-- **Supports the new MacBook Pro M5 Pro/Max and MacBook Air M5**
+- Intel Macs — Universal binary with display-aware boost limits
 
 ## System Requirements
 
-- **macOS 14.0+** (Sonoma, Sequoia, Tahoe)
-- Apple Silicon (M1, M1 Pro, M1 Max, M2, M3, M3 Pro, M3 Max, M4, M4 Pro, M4 Max, M5, M5 Pro, M5 Max) required
+- **macOS 13.0+**
+- Apple silicon or Intel Mac
 - XDR display recommended for full 1600 nit boost
 
 ## Download
@@ -140,7 +129,7 @@ One-time purchase. Yours forever. No subscription.
 
 |                    | Details                                              |
 | ------------------ | ---------------------------------------------------- |
-| **Price**          | $16.35 (one-time, +10% platform fee at checkout)     |
+| **Price**          | One-time purchase; current price shown at checkout   |
 | **Free Trial**     | 3 days with full Pro features                        |
 | **Free Version**   | Basic brightness boost available without Pro         |
 | **Updates**        | Free lifetime updates                                |
@@ -153,6 +142,10 @@ One-time purchase. Yours forever. No subscription.
 ## Privacy
 
 LumiMax does not collect, store, or transmit any personal data. All settings are stored locally on your device. No analytics, no tracking, no telemetry.
+
+## License
+
+LumiMax and the materials in this repository are proprietary. See [LICENSE](LICENSE) for details.
 
 ## Feedback
 
